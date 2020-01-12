@@ -1,0 +1,5 @@
+wojtek|10|01/09/20|Damascus
+tatata|12|01/09/20|New Delhi
+saa|55|01/09/20|New Delhi
+wacek|11|01/09/20|Tallinn
+janek|6|01/09/20|Victoria
