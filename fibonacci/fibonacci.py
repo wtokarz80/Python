@@ -18,8 +18,7 @@ def fibonacci():
 
 keep_asking = True
 while keep_asking:
-    number = input(
-        "How many numbers of Fibonacci sequence do you want to print out?: ")
+    number = input("How many numbers of Fibonacci sequence do you want to print out?: ")
     if number.isdigit() and int(number) > 0:
         fibonacci()
         break
